@@ -1,0 +1,110 @@
+Dictionnaire de données 
+
+Nom : L'id de l'utilisateur
+Code : ID_USER
+Type : AUTO_INCREMENT
+Taille : 15,
+Commentaire : 
+
+Nom : mail
+Code : MAIL_USER
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : pseudo
+Code : PSEUDO_USER
+Type : VARCHAR
+Taille : 30,
+Commentaire : 
+
+Nom : Numéro du joueur
+Code : NUM_PLAYER
+Type : AUTO_INCREMENT
+Taille : 15,
+Commentaire : 
+
+Nom : Nom du joueur
+Code : NOM_PLAYER
+Type : VARCHAR
+Taille : 30,
+Commentaire : 
+
+Nom : Prenom du joueur 
+Code : PRENOM_PLAYER
+Type : VARCHAR
+Taille : 30,
+Commentaire : 
+
+Nom : Rôle du joueur
+Code : ROLE_PLAYER
+Type : VARCHAR
+Taille : 30,
+Commentaire : 
+
+Nom : Numéro de l'équipe
+Code : NUM_TEAM
+Type : AUTO_INCREMENT
+Taille : 30,
+Commentaire : 
+
+Nom : Nom de l'équipe
+Code : NOM_TEAM
+Type : VARCHAR
+Taille : 30,
+Commentaire : 
+
+Nom : Numéro Tournois
+Code : NUM_TOURNAMENT
+Type : AUTO_INCREMENT
+Taille : 15,
+Commentaire : 
+
+Nom : Nom du Tournois
+Code : NOM_TOURNAMENT
+Type : VARCHAR
+Taille : 30,
+Commentaire : 
+
+Nom : motdepasse
+Code : MDP_USER
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : Numéro d'administrateur
+Code : NUMÉRO_ADMINISTRATEUR
+Type : AUTO_INCREMENT
+Taille : ,
+Commentaire : 
+
+Nom : Identifiant d'administrateur
+Code : LOGIN
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : Mot de passe d'administrateur
+Code : PASSWORD
+Type : INT
+Taille : 50,
+Commentaire : 
+
+Nom : Ville
+Code : VILLE
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : mail 
+Code : MAIL_USER
+Type : VARCHAR
+Taille : 50,
+Commentaire : 
+
+Nom : pseudo
+Code : PSEUDO_USER
+Type : VARCHAR
+Taille : 30,
+Commentaire : 
+
